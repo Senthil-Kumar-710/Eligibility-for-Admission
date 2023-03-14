@@ -2,11 +2,10 @@
 
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course.
-@@ -16,7 +16,7 @@ Display whether the person is eligible for admission or not based on the given c
+	@@ -16,7 +16,7 @@ Display whether the person is eligible for admission or not based on the given c
 ## Program:
 ```
 /*
-Program to find the eligibility for admission to an engineering course.
 Program to check the eligibility for admission to an engineering course.
 Developed by: Senthil Kumar S
 RegisterNumber:  212221230091
